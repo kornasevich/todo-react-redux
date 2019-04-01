@@ -1,0 +1,33 @@
+.search-panel-block{
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.search-panel{
+    display: flex;
+    border-radius: 5px;
+    margin-right: 3px;
+    height:44px;
+}
+
+.todo-task-date{
+    width:170px;
+    margin-right: 3px;
+    height:44px;
+}
+
+.search-input{
+    display: flex;
+    width:100%;
+}
+
+.item-status{
+    display: flex;
+    height: 44px;
+}
+
+.todo-task-date-filter{
+    height: 44px;
+    margin-right: 3px;
+}
